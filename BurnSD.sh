@@ -68,7 +68,3 @@ rm status
 rm file1
 rm file2
 rm ruta
-
-4935679+0 registros leídos
-4935679+0 registros escritos
-2527067648 bytes (2,5 GB) copiados, 642,315 s, 3,9 MB/s
