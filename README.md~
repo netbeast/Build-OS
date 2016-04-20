@@ -3,12 +3,18 @@ This App will help you to have NBOS in your SD. This App will be able to detect 
 ## Good to know
 ### How interact with the app
 1.  The app will detect what OS is running 
+
  ```OS detected: Linux ```
+
 2.  It will ask you to insert the SD card 
+
  ```Insert SD card and press enter when finish ```
+
 3.  After detecting the SD it will look for the NetBeast Image
+
 ```Image Found in: Descargas/NBOS.img 
 Card located in: /dev/sdb1```
+
 4.  When you have both the SD Card and the NetBeast Image, the app will get ready to burn the SD card with the NBOS.img
 
 ### Recomendations and advices
